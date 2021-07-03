@@ -1,6 +1,6 @@
 {
   "name": "@djdmbrwsk/common-semantic-release",
-  "version": "0.0.0",
+  "version": "1.0.2",
   "description": "My common semantic-release dependencies and config.",
   "author": "Dan Dombrowski <djdmbrwsk@gmail.com>",
   "license": "MIT",
