@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/nts-scripts)](https://www.npmjs.com/package/@djdmbrwsk/common-semantic-release)
+[![npm](https://img.shields.io/npm/v/@djdmbrwsk/common-semantic-release)](https://www.npmjs.com/package/@djdmbrwsk/common-semantic-release)
 
 # common-semantic-release
 
