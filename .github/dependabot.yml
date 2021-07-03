@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: 'npm'
+    directory: '/'
+    schedule:
+      interval: 'monthly'
+    rebase-strategy: 'disabled'
+    open-pull-requests-limit: 20
+    commit-message:
+      prefix: 'chore'
+      include: 'scope'
