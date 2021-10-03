@@ -15,6 +15,9 @@
   "files": [
     ".common-releaserc"
   ],
+  "engines": {
+     "node": ">=14.17"
+  },
   "dependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
