@@ -1,6 +1,6 @@
 {
   "name": "@djdmbrwsk/common-semantic-release",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "My common semantic-release dependencies and config.",
   "author": "Dan Dombrowski <djdmbrwsk@gmail.com>",
   "license": "MIT",
@@ -16,7 +16,7 @@
     ".common-releaserc"
   ],
   "engines": {
-     "node": ">=14.17"
+    "node": ">=14.17"
   },
   "dependencies": {
     "@semantic-release/changelog": "^5.0.1",
